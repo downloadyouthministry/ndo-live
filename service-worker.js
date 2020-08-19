@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ndo-live/precache-manifest.72f61396bdcfe4723dcaa85a64bc28d9.js"
+  "/ndo-live/precache-manifest.9f303e1e8914b4e1790cb175ea52d421.js"
 );
 
 self.addEventListener('message', (event) => {
