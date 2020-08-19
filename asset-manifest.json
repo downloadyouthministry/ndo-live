@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ndo-live/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ndo-live/static/js/main.dc644147.chunk.js",
+    "main.js.map": "/ndo-live/static/js/main.dc644147.chunk.js.map",
+    "runtime-main.js": "/ndo-live/static/js/runtime-main.0ab23f76.js",
+    "runtime-main.js.map": "/ndo-live/static/js/runtime-main.0ab23f76.js.map",
+    "static/js/2.d8c348b9.chunk.js": "/ndo-live/static/js/2.d8c348b9.chunk.js",
+    "static/js/2.d8c348b9.chunk.js.map": "/ndo-live/static/js/2.d8c348b9.chunk.js.map",
+    "index.html": "/ndo-live/index.html",
+    "precache-manifest.72f61396bdcfe4723dcaa85a64bc28d9.js": "/ndo-live/precache-manifest.72f61396bdcfe4723dcaa85a64bc28d9.js",
+    "service-worker.js": "/ndo-live/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ndo-live/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d8c348b9.chunk.js.LICENSE.txt": "/ndo-live/static/js/2.d8c348b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab23f76.js",
+    "static/js/2.d8c348b9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dc644147.chunk.js"
+  ]
+}
